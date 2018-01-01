@@ -20,9 +20,9 @@ description: My project to build a 2 seater sports car
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name: Jon
   twitter:
-  picture:
+  picture: images/zerosmall.png
 twitter_username:
 github_username:
 logo: # path of site logo, e.g. "/assets/images/logo.png"
