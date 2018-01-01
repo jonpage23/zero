@@ -1,5 +1,7 @@
 ---
 title: "Getting Started part 1"
+categories:
+  - GBS Zero
 tags:
   - MX5
   - engine
