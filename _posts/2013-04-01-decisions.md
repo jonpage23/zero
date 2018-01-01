@@ -1,13 +1,10 @@
 ---
 title: "Decisions"
 categories:
-  - Edge Case
+  - GBS Zero
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - GBS
+  - factory
 ---
 
 The 7 style two seat sports car is one of the most popular kit build cars around, and as such there is a lot of choice in kits to buy. Having visited a few kit car shows and obtained stacks of company brochures via the internet I narrowed my choice to a couple of companies, one being Great British Sports Cars near Newark. Their offering, the Zero, appears good value and, to my mind, has a more exciting look about it than some other cars. I like the use of the aluminium body panels with just the nose and wings in coloured GRP.
