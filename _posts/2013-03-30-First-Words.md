@@ -1,14 +1,11 @@
 ---
 title: "First Words..."
 categories:
-  - Edge Case
+  - GBS Zero
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
-last_modified_at: 2013-03-30T14:25:52-05:00
+  - GBS Zero
+  - Kit car
+  - Lotus 7
 ---
 
 Greetings,<br/><br/>
