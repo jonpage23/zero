@@ -1,7 +1,5 @@
 ---
 title: "Getting Started part 1"
-categories:
-  - Edge Case
 tags:
   - content
   - css
