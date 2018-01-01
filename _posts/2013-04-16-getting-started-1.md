@@ -12,6 +12,6 @@ Time to get started on this project. I have my Mazda MX-5 in a garage ready to b
 
 Well... Let's start with a complete Mazda. All working, running, and actually quite fun to drive.
 
-![Mazda MX-5](../images/MX5-full.jpg)
+![Mazda MX-5](/zero/images/MX5-full.jpg)
 
 Picture of MX-5
